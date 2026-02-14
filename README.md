@@ -18,16 +18,6 @@ I am a **Full Stack Developer** dedicated to building scalable, end-to-end appli
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Tools** | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
----
 
-### 📊 Performance Metrics
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=shyamilla&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="shyamilla's GitHub stats" />
-</p>
-
----
-```
 ```### 📫 Let's Connect 
- ```[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) 
- ```[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 ``` [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
