@@ -20,4 +20,5 @@ I am a **Full Stack Developer** dedicated to building scalable, end-to-end appli
 
 
 ### 📫 Let's Connect 
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourname@email.com)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamilla08@email.com)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-a4jw.onrender.com)
